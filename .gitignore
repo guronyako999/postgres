@@ -1,2 +1,12 @@
-#Git bundle files
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+# Environments
+.env
+
+# Database
+db.sqlite3
 *.bundle
